@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : TOP
+Version: J-2014.09-SP2
+Date   : Fri Mar 31 19:53:48 2023
+****************************************
+
+Library(s) Used:
+
+    saed32rvt_tt1p05v125c (File: /app11/saed_32.28/SAED32_EDK/lib/stdcell_rvt/db_ccs/saed32rvt_tt1p05v125c.db)
+
+Number of ports:                         2574
+Number of nets:                          2597
+Number of cells:                            2
+Number of combinational cells:              0
+Number of sequential cells:                 0
+Number of macros/black boxes:               0
+Number of buf/inv:                          0
+Number of references:                       2
+
+Combinational area:              71839.900927
+Buf/Inv area:                     3751.419727
+Noncombinational area:           25583.914339
+Macro/Black Box area:                0.000000
+Net Interconnect area:           22479.775811
+
+Total cell area:                 97423.815266
+Total area:                     119903.591077
+1
